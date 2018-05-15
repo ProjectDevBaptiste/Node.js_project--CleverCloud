@@ -1,0 +1,12 @@
+{
+  "dependencies" : {
+    "body-parser" : "^1.12.4",
+    "express" : ""
+  },
+  "scripts" : {
+    "start" : "node index.js"
+  },
+  "engine" : {
+    "node" : ">=0.6"
+  }
+}
